@@ -1,0 +1,6 @@
+name: ${project.name}
+version: ${project.version}
+main: net.maxmushroom.creepernoboom.CreeperNoBoom
+api-version: '1.21' 
+author: maxmushroom
+description: ${project.description}
